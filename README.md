@@ -1,4 +1,4 @@
-#Encrypt React App
+# Encrypt React App
 
 A small application I made that uses a very simple encryption.
 
